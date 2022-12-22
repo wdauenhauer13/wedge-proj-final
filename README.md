@@ -1,5 +1,24 @@
 # Wedge Project
 
+## Feedback
+
+Bummer that you didn't take the time to fill in the `submission.md` file. Or did you just leave them blank because they were all exact matches? Overall I'm shocked how half-baked this project is. Will! What happened? 
+
+### Task 1
+
+Hmm, either this is incomplete or you did it by changing each of those one at a time. Either way, this misses the point. 
+
+### Task 2
+
+Great work on this one.
+
+### Task 3
+
+Good start here, but again this misses the point of putting the data in a local DB.
+
+
+## Original content
+
 This project is a view into the world of data engineering. As a graduate of the MSBA, you are going to spend a ton of your time trying to shape up data sets for analyses. It’s literally 80% of the job. A deep understanding of data pipelines and how raw data is transformed into consumable data is critical to a successful career. As you work with data you will often be called upon to define the data sets you need for your work. This project hones those skills.
 
 The Wedge Co-Op is the largest co-operative grocery store in the US and is in Minneapolis, MN. Through a partnership with the co-op, we have data dating back to January 1, 2010 from the point-of-sale (POS) system that the Wedge developed . We have data through January 2017. This system logs every row of every receipt. While we do not have other sources of data such as ordering, inventory, and spoilage, this transaction-level view is one of the richest data sets available to us. The source of this richness is that the Wedge is a member-owned co-operative. The public is welcome to shop there, but membership is lightweight: $80 (which can be paid in installments) buys you shares which entitle you to $3.75 off per month, other Member discounts, and annual refunds based on business profitability. 
